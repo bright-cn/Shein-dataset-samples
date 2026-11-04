@@ -1,4 +1,4 @@
-# Shein-dataset-samples
+# Shein 数据集样本
 
 <h2>包含 1001 款 Shein 商品的样本数据集</h2>
 
